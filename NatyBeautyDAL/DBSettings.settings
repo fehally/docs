@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NatyBeautyDAL" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Wus9aF6YEVbL3Y01rR/ubuNrFfQiVI0J29jm6RxRng4=</Value>
+    </Setting>
+    <Setting Name="DBUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">akunWKY4+Fw5AIKFCEzdyg==</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">P+Xup7CKpZcdZE5IK3pqzA==</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tqLVJYPTi4meU0d0SBNyl//QYMEZsfq1j2npjQop8Sjo4ccXAVbWTaLHaB09OWfk</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
